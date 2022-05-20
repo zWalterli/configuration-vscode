@@ -1,0 +1,15 @@
+{
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.colorTheme": "Dracula",
+  "terminal.integrated.defaultProfile.linux": "C:\\Program Files\\Git\\bin\\bash.exe",
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+  "editor.codeActionsOnSave": "C:\\Program Files\\Git\\bin\\bash.exe",
+  "editor.cursorBlinking": "expand",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "git.confirmSync": false,
+  "terminal.explorerKind": "external",
+  "terminal.external.windowsExec": "C:\\Program Files\\Git\\git-bash.exe",
+  "terminal.integrated.automationProfile.osx": {},
+  "redhat.telemetry.enabled": true
+}
